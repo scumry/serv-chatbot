@@ -1,0 +1,28 @@
+C:\Users\maldi\OneDrive\Рабочий стол\ConsoleApp7\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\maldi\OneDrive\Рабочий стол\ConsoleApp7\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\maldi\OneDrive\Рабочий стол\ConsoleApp7\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\maldi\OneDrive\Рабочий стол\ConsoleApp7\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\maldi\OneDrive\Рабочий стол\ConsoleApp7\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\maldi\OneDrive\Рабочий стол\ConsoleApp7\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldi\OneDrive\Рабочий стол\ConsoleApp7\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\maldi\OneDrive\Рабочий стол\ConsoleApp7\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\maldi\OneDrive\Рабочий стол\ConsoleApp7\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\maldi\OneDrive\Рабочий стол\ConsoleApp7\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\maldi\OneDrive\Рабочий стол\ConsoleApp7\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\maldi\OneDrive\Рабочий стол\ConsoleApp7\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\maldi\OneDrive\Рабочий стол\ConsoleApp7\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\maldi\OneDrive\Рабочий стол\ConsoleApp7\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\is22-11\Desktop\ConsoleApp7_2\ConsoleApp7\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\is22-11\Desktop\ConsoleApp7_2\ConsoleApp7\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\is22-11\Desktop\ConsoleApp7_2\ConsoleApp7\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\is22-11\Desktop\ConsoleApp7_2\ConsoleApp7\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\is22-11\Desktop\ConsoleApp7_2\ConsoleApp7\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\is22-11\Desktop\ConsoleApp7_2\ConsoleApp7\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\is22-11\Desktop\ConsoleApp7_2\ConsoleApp7\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\is22-11\Desktop\ConsoleApp7_2\ConsoleApp7\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\is22-11\Desktop\ConsoleApp7_2\ConsoleApp7\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\is22-11\Desktop\ConsoleApp7_2\ConsoleApp7\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\is22-11\Desktop\ConsoleApp7_2\ConsoleApp7\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\is22-11\Desktop\ConsoleApp7_2\ConsoleApp7\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\is22-11\Desktop\ConsoleApp7_2\ConsoleApp7\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\is22-11\Desktop\ConsoleApp7_2\ConsoleApp7\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
